@@ -150,8 +150,6 @@ Engine:Core.System:TestUnversionedPropertySerializationWhenCooking:0=False
 Engine:Core.System:DetailedCallstacksInNonMonolithicBuilds:0=True
 Engine:Core.System:UsePackageTrailer:0=False
 Engine:Core.System:HangDuration:0=0.0
-Engine:Core.System:AssetLogShowsDiskPath:0=True
-Engine:Core.System:AssetLogShowsAbsolutePath:0=True
 Engine:/Script/UdpMessaging.UdpMessagingSettings:EnabledByDefault:0=False
 Engine:/Script/UdpMessaging.UdpMessagingSettings:EnableTransport:0=True
 Engine:/Script/UdpMessaging.UdpMessagingSettings:bAutoRepair:0=True
@@ -639,7 +637,7 @@ Game:/Script/UnrealEd.ProjectPackagingSettings:PerPlatformBuildTarget:0=()
 Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
 Game:/Script/UnrealEd.ProjectPackagingSettings:LaunchOnTarget:0=
-Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/User/Desktop/Uni/Assessments/Design Prototyping Fundamentals/Build/v0.1")
+Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/User/Desktop/Uni/Assessments/Design Prototyping Fundamentals/Build/v0.1/Antipode v0.2")
 Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled

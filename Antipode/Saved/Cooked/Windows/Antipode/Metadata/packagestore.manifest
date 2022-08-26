@@ -325,6 +325,18 @@
 			"ChunkId": "0bf1d6a9c47f8ccc00000002"
 		},
 		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset",
+			"ChunkId": "ba6543c81e92e56d00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk",
+			"ChunkId": "ba6543c81e92e56d00000002"
+		},
+		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset",
+			"ChunkId": "f267c7830989284200000001"
+		},
+		{
 			"Path": "Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset",
 			"ChunkId": "79688f0e793acea100000001"
 		},
@@ -343,14 +355,6 @@
 		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset",
 			"ChunkId": "a29fb34f83f7d31a00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset",
-			"ChunkId": "ba6543c81e92e56d00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk",
-			"ChunkId": "ba6543c81e92e56d00000002"
 		},
 		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset",
@@ -381,6 +385,50 @@
 			"ChunkId": "f421d8f857b9ed0300000002"
 		},
 		{
+			"Path": "Antipode/Content/__Materials/M_Floorswitch.uasset",
+			"ChunkId": "c65dffb6982224ca00000001"
+		},
+		{
+			"Path": "Antipode/Content/__Levels/_GENERATED/User/CubeGridToolOutput_5D04931F_2.uasset",
+			"ChunkId": "632bac600ec448a600000001"
+		},
+		{
+			"Path": "Antipode/Content/__Levels/_GENERATED/User/CubeGridToolOutput_5D04931F_2.ubulk",
+			"ChunkId": "632bac600ec448a600000002"
+		},
+		{
+			"Path": "Antipode/Content/__Levels/_GENERATED/User/CubeGridToolOutput_5D04931F.uasset",
+			"ChunkId": "ed4ee590d518150900000001"
+		},
+		{
+			"Path": "Antipode/Content/__Levels/_GENERATED/User/CubeGridToolOutput_5D04931F.ubulk",
+			"ChunkId": "ed4ee590d518150900000002"
+		},
+		{
+			"Path": "Antipode/Content/__Levels/_GENERATED/User/CubeGridToolOutput_195782A5.uasset",
+			"ChunkId": "13bbbc0966dce1c500000001"
+		},
+		{
+			"Path": "Antipode/Content/__Levels/_GENERATED/User/CubeGridToolOutput_195782A5.ubulk",
+			"ChunkId": "13bbbc0966dce1c500000002"
+		},
+		{
+			"Path": "Antipode/Content/__Font/TCM_____.uasset",
+			"ChunkId": "9b79120bf8eb9b7d00000001"
+		},
+		{
+			"Path": "Antipode/Content/LevelPrototyping/Materials/M_Solid.uasset",
+			"ChunkId": "05fbe02734550c0d00000001"
+		},
+		{
+			"Path": "Antipode/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset",
+			"ChunkId": "4fec0163af43e6cc00000001"
+		},
+		{
+			"Path": "Antipode/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk",
+			"ChunkId": "4fec0163af43e6cc00000002"
+		},
+		{
 			"Path": "Engine/Content/EngineResources/WhiteSquareTexture.uasset",
 			"ChunkId": "b85ee5fd59f4dd2000000001"
 		},
@@ -395,10 +443,6 @@
 		{
 			"Path": "Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset",
 			"ChunkId": "42a5bdf71bdb9f1200000001"
-		},
-		{
-			"Path": "Engine/Content/EditorResources/S_TriggerSphere.uasset",
-			"ChunkId": "67d4e8f2a83a1c4800000001"
 		},
 		{
 			"Path": "Engine/Content/EditorResources/S_TriggerCapsule.uasset",
@@ -447,6 +491,10 @@
 		{
 			"Path": "Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset",
 			"ChunkId": "d28cf23bc747e18000000001"
+		},
+		{
+			"Path": "Engine/Content/EditorResources/S_TriggerSphere.uasset",
+			"ChunkId": "67d4e8f2a83a1c4800000001"
 		},
 		{
 			"Path": "Engine/Content/EditorResources/S_Trigger.uasset",
@@ -557,44 +605,20 @@
 			"ChunkId": "f87a01e7b138538a00000001"
 		},
 		{
-			"Path": "Antipode/Content/__Levels/_GENERATED/User/CubeGridToolOutput_5D04931F.uasset",
-			"ChunkId": "ed4ee590d518150900000001"
-		},
-		{
-			"Path": "Antipode/Content/__Levels/_GENERATED/User/CubeGridToolOutput_5D04931F.ubulk",
-			"ChunkId": "ed4ee590d518150900000002"
-		},
-		{
-			"Path": "Antipode/Content/__Levels/_GENERATED/User/CubeGridToolOutput_195782A5.uasset",
-			"ChunkId": "13bbbc0966dce1c500000001"
-		},
-		{
-			"Path": "Antipode/Content/__Levels/_GENERATED/User/CubeGridToolOutput_195782A5.ubulk",
-			"ChunkId": "13bbbc0966dce1c500000002"
-		},
-		{
-			"Path": "Antipode/Content/__Font/TCM_____.uasset",
-			"ChunkId": "9b79120bf8eb9b7d00000001"
-		},
-		{
-			"Path": "Antipode/Content/LevelPrototyping/Materials/M_Solid.uasset",
-			"ChunkId": "05fbe02734550c0d00000001"
-		},
-		{
-			"Path": "Antipode/Content/ExampleContent/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone.uasset",
-			"ChunkId": "007f6fafe75f12bf00000001"
-		},
-		{
-			"Path": "Antipode/Content/ExampleContent/InfinityBladeWeapons/Weapons/Weapon_ForgingHammers/SK_Forging_ForgeHammer01.uasset",
-			"ChunkId": "65560188b57b70fe00000001"
-		},
-		{
 			"Path": "Engine/Content/EditorResources/S_Actor.uasset",
 			"ChunkId": "bd472f8cbf5f723d00000001"
 		},
 		{
 			"Path": "Engine/Content/EditorResources/S_Actor.ubulk",
 			"ChunkId": "bd472f8cbf5f723d00000002"
+		},
+		{
+			"Path": "Antipode/Content/__Sound/Enter_Play.uasset",
+			"ChunkId": "cece0bdae8e38fa200000001"
+		},
+		{
+			"Path": "Antipode/Content/__Sound/Enter_Play.ubulk",
+			"ChunkId": "cece0bdae8e38fa200000002"
 		},
 		{
 			"Path": "Antipode/Content/__Materials/Textures/1mCube/1mCube_lambert1_OcclusionRoughnessMetallic.uasset",
@@ -625,32 +649,16 @@
 			"ChunkId": "2bb6d9beec5e621d00000001"
 		},
 		{
+			"Path": "Antipode/Content/__Font/TW_Font_Offline.uasset",
+			"ChunkId": "168c7f5ef4973cde00000001"
+		},
+		{
 			"Path": "Antipode/Content/MarketPlace/ContrastD.uasset",
 			"ChunkId": "5a1624a016a0ef1c00000001"
 		},
 		{
 			"Path": "Antipode/Content/MarketPlace/B_WHighContrast.uasset",
 			"ChunkId": "e28aea1413a4bda200000001"
-		},
-		{
-			"Path": "Antipode/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset",
-			"ChunkId": "4fec0163af43e6cc00000001"
-		},
-		{
-			"Path": "Antipode/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk",
-			"ChunkId": "4fec0163af43e6cc00000002"
-		},
-		{
-			"Path": "Antipode/Content/ExampleContent/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_HeroSword16/SK_Blade_HeroSword16.uasset",
-			"ChunkId": "a3a74376ccb9664300000001"
-		},
-		{
-			"Path": "Antipode/Content/ExampleContent/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Fencer/SK_Blade_Fencer.uasset",
-			"ChunkId": "71f0606fd4ef3c2e00000001"
-		},
-		{
-			"Path": "Antipode/Content/ExampleContent/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_AnthraciteAxe/SK_Blade_AnthraciteAxe.uasset",
-			"ChunkId": "de9c4ac86a4558e800000001"
 		},
 		{
 			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
@@ -665,6 +673,10 @@
 			"ChunkId": "72ff6427f1042ed200000001"
 		},
 		{
+			"Path": "Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+			"ChunkId": "5516ce2c36f3d9ae00000001"
+		},
+		{
 			"Path": "Engine/Content/MapTemplates/Materials/BasicAsset01.uasset",
 			"ChunkId": "a2b9c1b48ce6708700000001"
 		},
@@ -673,36 +685,20 @@
 			"ChunkId": "e43855b9d402d6d500000001"
 		},
 		{
+			"Path": "Antipode/Content/__Sound/MixClasses/MasterVolumeClass.uasset",
+			"ChunkId": "439881533c92dd5200000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Music.uasset",
+			"ChunkId": "0eb8023ee0c2921900000001"
+		},
+		{
 			"Path": "Engine/Content/EditorLandscapeResources/CircleBrushMaterial.uasset",
 			"ChunkId": "bc3dd5d3d6515fe100000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset",
 			"ChunkId": "da9ef9387e6c513600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
-			"ChunkId": "b916d415e9289b5500000001"
-		},
-		{
-			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset",
-			"ChunkId": "c8548e53bc64ae9400000001"
-		},
-		{
-			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
-			"ChunkId": "c472a8877b0ae2f900000001"
-		},
-		{
-			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
-			"ChunkId": "2a8ace463a029fae00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
-			"ChunkId": "2d5d52b0905803e600000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
-			"ChunkId": "2d5d52b0905803e600000002"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset",
@@ -727,6 +723,10 @@
 		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset",
 			"ChunkId": "4762b775bfe4b22d00000001"
+		},
+		{
+			"Path": "Antipode/Content/MarketPlace/PPM_TS_InkOnly.uasset",
+			"ChunkId": "f3bd68a8f177997e00000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset",
@@ -761,12 +761,40 @@
 			"ChunkId": "6e6a371ba7ffd6e900000002"
 		},
 		{
+			"Path": "Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset",
+			"ChunkId": "51f4a9204ba994c500000001"
+		},
+		{
 			"Path": "Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset",
 			"ChunkId": "c851afa144f311c000000001"
 		},
 		{
 			"Path": "Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset",
 			"ChunkId": "6fab96d8842b418000000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset",
+			"ChunkId": "b916d415e9289b5500000001"
+		},
+		{
+			"Path": "Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset",
+			"ChunkId": "c8548e53bc64ae9400000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
+			"ChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
+			"ChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
+			"ChunkId": "2d5d52b0905803e600000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
+			"ChunkId": "2d5d52b0905803e600000002"
 		},
 		{
 			"Path": "Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset",
@@ -793,12 +821,12 @@
 			"ChunkId": "eeb296b2a739309500000001"
 		},
 		{
-			"Path": "Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset",
-			"ChunkId": "e3ad05e4a2d7a17c00000001"
-		},
-		{
 			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough.uasset",
 			"ChunkId": "27d7aeddb1b7c7fc00000001"
+		},
+		{
+			"Path": "Antipode/Content/__Materials/M_1mCube.uasset",
+			"ChunkId": "172e6db93901814600000001"
 		},
 		{
 			"Path": "Antipode/Content/__Models/FloorSwitch.uasset",
@@ -809,8 +837,8 @@
 			"ChunkId": "6b5d19aacc6823a400000002"
 		},
 		{
-			"Path": "Antipode/Content/__Font/TCM______Font.uasset",
-			"ChunkId": "880c8289be46cdef00000001"
+			"Path": "Antipode/Content/__Font/TW_Font_Runtime.uasset",
+			"ChunkId": "0a29bd6e49b825c700000001"
 		},
 		{
 			"Path": "Antipode/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset",
@@ -837,8 +865,12 @@
 			"ChunkId": "dab3ede8bda8d8ca00000001"
 		},
 		{
-			"Path": "Antipode/Content/PPM_TS_InkAndPaper_BlackLine.uasset",
-			"ChunkId": "aa8ad6c79ffe62a300000001"
+			"Path": "Antipode/Content/__Sound/MixClasses/MusicVolumeClass.uasset",
+			"ChunkId": "db09a4fdd15c28db00000001"
+		},
+		{
+			"Path": "Antipode/Content/MarketPlace/PPM_TS_InkAndPaper_BlackLine.uasset",
+			"ChunkId": "c99f77efd86749ab00000001"
 		},
 		{
 			"Path": "Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset",
@@ -1437,14 +1469,6 @@
 			"ChunkId": "401f847a49194b0700000002"
 		},
 		{
-			"Path": "Antipode/Content/__UI/MainMenu.uasset",
-			"ChunkId": "76abc48b516bfc9f00000001"
-		},
-		{
-			"Path": "Antipode/Content/__UI/IngamePause.uasset",
-			"ChunkId": "b2de3d09f54ac6e500000001"
-		},
-		{
 			"Path": "Antipode/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
 			"ChunkId": "9fe46510b72904d400000001"
 		},
@@ -1455,10 +1479,6 @@
 		{
 			"Path": "Antipode/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset",
 			"ChunkId": "61c71c1f791566ff00000001"
-		},
-		{
-			"Path": "Antipode/Content/__Blueprints/SlidingWall.uasset",
-			"ChunkId": "39921c16a3c2029700000001"
 		},
 		{
 			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset",
@@ -1473,48 +1493,20 @@
 			"ChunkId": "2925796cddcc148c00000001"
 		},
 		{
-			"Path": "Antipode/Content/__Levels/MainMenu.umap",
-			"ChunkId": "e9ed92d144b7aa1c00000001"
-		},
-		{
-			"Path": "Antipode/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-			"ChunkId": "48a96cb882cdf14f00000001"
-		},
-		{
 			"Path": "Antipode/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
 			"ChunkId": "dee22158a4e72f8300000001"
-		},
-		{
-			"Path": "Antipode/Content/__Blueprints/FloorSwitch.uasset",
-			"ChunkId": "3e3f62128e4a80ba00000001"
-		},
-		{
-			"Path": "Antipode/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
-			"ChunkId": "5d92e106367aace700000001"
-		},
-		{
-			"Path": "Antipode/Content/__Blueprints/StopTeleport.uasset",
-			"ChunkId": "71daf911e291674900000001"
-		},
-		{
-			"Path": "Antipode/Content/__Blueprints/LoadLevelActor.uasset",
-			"ChunkId": "07c39291d7471f6200000001"
 		},
 		{
 			"Path": "Antipode/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset",
 			"ChunkId": "fe76912143917d4d00000001"
 		},
 		{
+			"Path": "Antipode/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uasset",
+			"ChunkId": "bf5e6efbb78e710300000001"
+		},
+		{
 			"Path": "Antipode/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset",
 			"ChunkId": "db67837b5a6c7a6800000001"
-		},
-		{
-			"Path": "Antipode/Content/__Levels/Level2.umap",
-			"ChunkId": "2d8a17c600e6ad6a00000001"
-		},
-		{
-			"Path": "Antipode/Content/__Levels/Level1.umap",
-			"ChunkId": "e56241d3f534dc9b00000001"
 		},
 		{
 			"Path": "Antipode/Content/LevelPrototyping/Meshes/SM_Ramp.uasset",
@@ -1561,36 +1553,116 @@
 			"ChunkId": "b059d54260cfd24100000001"
 		},
 		{
+			"Path": "Engine/Content/EngineSounds/SFX.uasset",
+			"ChunkId": "bef0db628e3856fc00000001"
+		},
+		{
+			"Path": "Antipode/Content/__Sound/MixClasses/SoundVolumeClass.uasset",
+			"ChunkId": "754058f5dddec90f00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Normal_Attack.uasset",
+			"ChunkId": "457ebb211be1a61900000001"
+		},
+		{
+			"Path": "Antipode/Content/__UI/IngamePause.uasset",
+			"ChunkId": "b2de3d09f54ac6e500000001"
+		},
+		{
+			"Path": "Antipode/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+			"ChunkId": "48a96cb882cdf14f00000001"
+		},
+		{
+			"Path": "Antipode/Content/__Blueprints/SlidingWall.uasset",
+			"ChunkId": "39921c16a3c2029700000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset",
+			"ChunkId": "89d4c5eca1455c0300000001"
+		},
+		{
+			"Path": "Antipode/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+			"ChunkId": "5d92e106367aace700000001"
+		},
+		{
+			"Path": "Antipode/Content/__UI/MainMenu.uasset",
+			"ChunkId": "76abc48b516bfc9f00000001"
+		},
+		{
+			"Path": "Antipode/Content/__Blueprints/StopTeleport.uasset",
+			"ChunkId": "71daf911e291674900000001"
+		},
+		{
+			"Path": "Antipode/Content/__Sound/Scaling_Down.uasset",
+			"ChunkId": "bd9862de9568f11e00000001"
+		},
+		{
+			"Path": "Antipode/Content/__Sound/Scaling_Down.ubulk",
+			"ChunkId": "bd9862de9568f11e00000002"
+		},
+		{
+			"Path": "Antipode/Content/__Sound/Metal-door-closing-soft-impact-563.uasset",
+			"ChunkId": "361ee4fd6b91f76100000001"
+		},
+		{
+			"Path": "Antipode/Content/__Sound/Metal-door-closing-soft-impact-563.ubulk",
+			"ChunkId": "361ee4fd6b91f76100000002"
+		},
+		{
+			"Path": "Antipode/Content/__Sound/Teleport_Committed.uasset",
+			"ChunkId": "cb1aa0783fada8ac00000001"
+		},
+		{
+			"Path": "Antipode/Content/__Sound/Teleport_Committed.ubulk",
+			"ChunkId": "cb1aa0783fada8ac00000002"
+		},
+		{
+			"Path": "Antipode/Content/__Sound/Scaling_Up.uasset",
+			"ChunkId": "08e0fc00fabbc64800000001"
+		},
+		{
+			"Path": "Antipode/Content/__Sound/Scaling_Up.ubulk",
+			"ChunkId": "08e0fc00fabbc64800000002"
+		},
+		{
+			"Path": "Antipode/Content/__Blueprints/LoadLevelActor.uasset",
+			"ChunkId": "07c39291d7471f6200000001"
+		},
+		{
+			"Path": "Antipode/Content/__Blueprints/FloorSwitch.uasset",
+			"ChunkId": "3e3f62128e4a80ba00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Special_Attack_PSM.uasset",
+			"ChunkId": "a27c88fe54b6f9aa00000001"
+		},
+		{
+			"Path": "Antipode/Content/__Levels/MainMenu.umap",
+			"ChunkId": "e9ed92d144b7aa1c00000001"
+		},
+		{
+			"Path": "Antipode/Content/__Levels/Level3.umap",
+			"ChunkId": "84935e3a68c445ee00000001"
+		},
+		{
+			"Path": "Antipode/Content/__Levels/Level2.umap",
+			"ChunkId": "2d8a17c600e6ad6a00000001"
+		},
+		{
+			"Path": "Antipode/Content/__Levels/Level1.umap",
+			"ChunkId": "e56241d3f534dc9b00000001"
+		},
+		{
 			"Path": "Engine/Content/EditorResources/EmptyActor.uasset",
 			"ChunkId": "cb90c94586b3228900000001"
 		},
 		{
-			"Path": "Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset",
-			"ChunkId": "f267c7830989284200000001"
+			"Path": "Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset",
+			"ChunkId": "e3ad05e4a2d7a17c00000001"
 		},
 		{
-			"Path": "Antipode/Content/__Materials/M_1mCube.uasset",
-			"ChunkId": "172e6db93901814600000001"
-		},
-		{
-			"Path": "Antipode/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uasset",
-			"ChunkId": "bf5e6efbb78e710300000001"
-		},
-		{
-			"Path": "Antipode/Content/PPM_TS_InkOnly.uasset",
-			"ChunkId": "6e16f50f9a564f0400000001"
-		},
-		{
-			"Path": "Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset",
-			"ChunkId": "51f4a9204ba994c500000001"
-		},
-		{
-			"Path": "Antipode/Content/__Materials/M_Floorswitch.uasset",
-			"ChunkId": "c65dffb6982224ca00000001"
-		},
-		{
-			"Path": "Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
-			"ChunkId": "5516ce2c36f3d9ae00000001"
+			"Path": "Antipode/Content/__Font/TCMFont.uasset",
+			"ChunkId": "57877d017719586b00000001"
 		}
 	],
 	"Packages": [
@@ -1932,6 +2004,17 @@
 			]
 		},
 		{
+			"Name": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage",
+			"PackageChunkId": "ba6543c81e92e56d00000001",
+			"BulkDataChunkIds": [
+				"ba6543c81e92e56d00000002"
+			]
+		},
+		{
+			"Name": "/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial",
+			"PackageChunkId": "f267c7830989284200000001"
+		},
+		{
 			"Name": "/Engine/EngineDamageTypes/DmgTypeBP_Environmental",
 			"PackageChunkId": "79688f0e793acea100000001"
 		},
@@ -1950,13 +2033,6 @@
 		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2",
 			"PackageChunkId": "a29fb34f83f7d31a00000001"
-		},
-		{
-			"Name": "/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage",
-			"PackageChunkId": "ba6543c81e92e56d00000001",
-			"BulkDataChunkIds": [
-				"ba6543c81e92e56d00000002"
-			]
 		},
 		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components",
@@ -1986,6 +2062,46 @@
 			]
 		},
 		{
+			"Name": "/Game/__Materials/M_Floorswitch",
+			"PackageChunkId": "c65dffb6982224ca00000001"
+		},
+		{
+			"Name": "/Game/__Levels/_GENERATED/User/CubeGridToolOutput_5D04931F_2",
+			"PackageChunkId": "632bac600ec448a600000001",
+			"BulkDataChunkIds": [
+				"632bac600ec448a600000002"
+			]
+		},
+		{
+			"Name": "/Game/__Levels/_GENERATED/User/CubeGridToolOutput_5D04931F",
+			"PackageChunkId": "ed4ee590d518150900000001",
+			"BulkDataChunkIds": [
+				"ed4ee590d518150900000002"
+			]
+		},
+		{
+			"Name": "/Game/__Levels/_GENERATED/User/CubeGridToolOutput_195782A5",
+			"PackageChunkId": "13bbbc0966dce1c500000001",
+			"BulkDataChunkIds": [
+				"13bbbc0966dce1c500000002"
+			]
+		},
+		{
+			"Name": "/Game/__Font/TCM_____",
+			"PackageChunkId": "9b79120bf8eb9b7d00000001"
+		},
+		{
+			"Name": "/Game/LevelPrototyping/Materials/M_Solid",
+			"PackageChunkId": "05fbe02734550c0d00000001"
+		},
+		{
+			"Name": "/Game/LevelPrototyping/Textures/T_GridChecker_A",
+			"PackageChunkId": "4fec0163af43e6cc00000001",
+			"BulkDataChunkIds": [
+				"4fec0163af43e6cc00000002"
+			]
+		},
+		{
 			"Name": "/Engine/EngineResources/WhiteSquareTexture",
 			"PackageChunkId": "b85ee5fd59f4dd2000000001"
 		},
@@ -2000,10 +2116,6 @@
 		{
 			"Name": "/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Vector",
 			"PackageChunkId": "42a5bdf71bdb9f1200000001"
-		},
-		{
-			"Name": "/Engine/EditorResources/S_TriggerSphere",
-			"PackageChunkId": "67d4e8f2a83a1c4800000001"
 		},
 		{
 			"Name": "/Engine/EditorResources/S_TriggerCapsule",
@@ -2049,6 +2161,10 @@
 		{
 			"Name": "/Engine/EngineSky/VolumetricClouds/CloudGradientTexture",
 			"PackageChunkId": "d28cf23bc747e18000000001"
+		},
+		{
+			"Name": "/Engine/EditorResources/S_TriggerSphere",
+			"PackageChunkId": "67d4e8f2a83a1c4800000001"
 		},
 		{
 			"Name": "/Engine/EditorResources/S_Trigger",
@@ -2154,44 +2270,17 @@
 			"PackageChunkId": "f87a01e7b138538a00000001"
 		},
 		{
-			"Name": "/Game/__Levels/_GENERATED/User/CubeGridToolOutput_5D04931F",
-			"PackageChunkId": "ed4ee590d518150900000001",
-			"BulkDataChunkIds": [
-				"ed4ee590d518150900000002"
-			]
-		},
-		{
-			"Name": "/Game/__Levels/_GENERATED/User/CubeGridToolOutput_195782A5",
-			"PackageChunkId": "13bbbc0966dce1c500000001",
-			"BulkDataChunkIds": [
-				"13bbbc0966dce1c500000002"
-			]
-		},
-		{
-			"Name": "/Game/__Font/TCM_____",
-			"PackageChunkId": "9b79120bf8eb9b7d00000001"
-		},
-		{
-			"Name": "/Game/TS_PostProcess/Blueprints/HUD/NewWidgetBlueprint",
-			"PackageChunkId": "000000000000000000000000"
-		},
-		{
-			"Name": "/Game/LevelPrototyping/Materials/M_Solid",
-			"PackageChunkId": "05fbe02734550c0d00000001"
-		},
-		{
-			"Name": "/Game/ExampleContent/ParagonGreystone/Characters/Heroes/Greystone/Meshes/Greystone",
-			"PackageChunkId": "007f6fafe75f12bf00000001"
-		},
-		{
-			"Name": "/Game/ExampleContent/InfinityBladeWeapons/Weapons/Weapon_ForgingHammers/SK_Forging_ForgeHammer01",
-			"PackageChunkId": "65560188b57b70fe00000001"
-		},
-		{
 			"Name": "/Engine/EditorResources/S_Actor",
 			"PackageChunkId": "bd472f8cbf5f723d00000001",
 			"BulkDataChunkIds": [
 				"bd472f8cbf5f723d00000002"
+			]
+		},
+		{
+			"Name": "/Game/__Sound/Enter_Play",
+			"PackageChunkId": "cece0bdae8e38fa200000001",
+			"BulkDataChunkIds": [
+				"cece0bdae8e38fa200000002"
 			]
 		},
 		{
@@ -2220,31 +2309,16 @@
 			"PackageChunkId": "2bb6d9beec5e621d00000001"
 		},
 		{
+			"Name": "/Game/__Font/TW_Font_Offline",
+			"PackageChunkId": "168c7f5ef4973cde00000001"
+		},
+		{
 			"Name": "/Game/MarketPlace/ContrastD",
 			"PackageChunkId": "5a1624a016a0ef1c00000001"
 		},
 		{
 			"Name": "/Game/MarketPlace/B_WHighContrast",
 			"PackageChunkId": "e28aea1413a4bda200000001"
-		},
-		{
-			"Name": "/Game/LevelPrototyping/Textures/T_GridChecker_A",
-			"PackageChunkId": "4fec0163af43e6cc00000001",
-			"BulkDataChunkIds": [
-				"4fec0163af43e6cc00000002"
-			]
-		},
-		{
-			"Name": "/Game/ExampleContent/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_HeroSword16/SK_Blade_HeroSword16",
-			"PackageChunkId": "a3a74376ccb9664300000001"
-		},
-		{
-			"Name": "/Game/ExampleContent/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Fencer/SK_Blade_Fencer",
-			"PackageChunkId": "71f0606fd4ef3c2e00000001"
-		},
-		{
-			"Name": "/Game/ExampleContent/InfinityBladeWeapons/Weapons/Blade/Axes/Blade_AnthraciteAxe/SK_Blade_AnthraciteAxe",
-			"PackageChunkId": "de9c4ac86a4558e800000001"
 		},
 		{
 			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
@@ -2259,6 +2333,10 @@
 			"PackageChunkId": "72ff6427f1042ed200000001"
 		},
 		{
+			"Name": "/Engine/BasicShapes/BasicShapeMaterial",
+			"PackageChunkId": "5516ce2c36f3d9ae00000001"
+		},
+		{
 			"Name": "/Engine/MapTemplates/Materials/BasicAsset01",
 			"PackageChunkId": "a2b9c1b48ce6708700000001"
 		},
@@ -2267,35 +2345,20 @@
 			"PackageChunkId": "e43855b9d402d6d500000001"
 		},
 		{
+			"Name": "/Game/__Sound/MixClasses/MasterVolumeClass",
+			"PackageChunkId": "439881533c92dd5200000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Music",
+			"PackageChunkId": "0eb8023ee0c2921900000001"
+		},
+		{
 			"Name": "/Engine/EditorLandscapeResources/CircleBrushMaterial",
 			"PackageChunkId": "bc3dd5d3d6515fe100000001"
 		},
 		{
 			"Name": "/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT",
 			"PackageChunkId": "da9ef9387e6c513600000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
-			"PackageChunkId": "b916d415e9289b5500000001"
-		},
-		{
-			"Name": "/Engine/EngineMaterials/DefaultCalibrationColor",
-			"PackageChunkId": "c8548e53bc64ae9400000001"
-		},
-		{
-			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
-			"PackageChunkId": "c472a8877b0ae2f900000001"
-		},
-		{
-			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
-			"PackageChunkId": "2a8ace463a029fae00000001"
-		},
-		{
-			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
-			"PackageChunkId": "2d5d52b0905803e600000001",
-			"BulkDataChunkIds": [
-				"2d5d52b0905803e600000002"
-			]
 		},
 		{
 			"Name": "/Engine/EngineMaterials/FlattenMaterial_VT",
@@ -2320,6 +2383,10 @@
 		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale",
 			"PackageChunkId": "4762b775bfe4b22d00000001"
+		},
+		{
+			"Name": "/Game/MarketPlace/PPM_TS_InkOnly",
+			"PackageChunkId": "f3bd68a8f177997e00000001"
 		},
 		{
 			"Name": "/Engine/EngineMaterials/PhAT_JointLimitMaterial",
@@ -2353,12 +2420,39 @@
 			]
 		},
 		{
+			"Name": "/Engine/VREditor/TransformGizmo/TransformGizmoMaterial",
+			"PackageChunkId": "51f4a9204ba994c500000001"
+		},
+		{
 			"Name": "/Engine/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW",
 			"PackageChunkId": "c851afa144f311c000000001"
 		},
 		{
 			"Name": "/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial",
 			"PackageChunkId": "6fab96d8842b418000000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationGrayscale",
+			"PackageChunkId": "b916d415e9289b5500000001"
+		},
+		{
+			"Name": "/Engine/EngineMaterials/DefaultCalibrationColor",
+			"PackageChunkId": "c8548e53bc64ae9400000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
+			"PackageChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
+			"PackageChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
+			"PackageChunkId": "2d5d52b0905803e600000001",
+			"BulkDataChunkIds": [
+				"2d5d52b0905803e600000002"
+			]
 		},
 		{
 			"Name": "/HairStrands/Materials/HairDebugMaterial",
@@ -2385,12 +2479,12 @@
 			"PackageChunkId": "eeb296b2a739309500000001"
 		},
 		{
-			"Name": "/Engine/EngineMaterials/DefaultTextMaterialOpaque",
-			"PackageChunkId": "e3ad05e4a2d7a17c00000001"
-		},
-		{
 			"Name": "/Engine/EngineMaterials/Widget3DPassThrough",
 			"PackageChunkId": "27d7aeddb1b7c7fc00000001"
+		},
+		{
+			"Name": "/Game/__Materials/M_1mCube",
+			"PackageChunkId": "172e6db93901814600000001"
 		},
 		{
 			"Name": "/Game/__Models/FloorSwitch",
@@ -2401,7 +2495,11 @@
 		},
 		{
 			"Name": "/Game/__Font/TCM______Font",
-			"PackageChunkId": "880c8289be46cdef00000001"
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
+			"Name": "/Game/__Font/TW_Font_Runtime",
+			"PackageChunkId": "0a29bd6e49b825c700000001"
 		},
 		{
 			"Name": "/Game/LevelPrototyping/Materials/MI_Solid_Blue",
@@ -2428,8 +2526,12 @@
 			"PackageChunkId": "dab3ede8bda8d8ca00000001"
 		},
 		{
-			"Name": "/Game/PPM_TS_InkAndPaper_BlackLine",
-			"PackageChunkId": "aa8ad6c79ffe62a300000001"
+			"Name": "/Game/__Sound/MixClasses/MusicVolumeClass",
+			"PackageChunkId": "db09a4fdd15c28db00000001"
+		},
+		{
+			"Name": "/Game/MarketPlace/PPM_TS_InkAndPaper_BlackLine",
+			"PackageChunkId": "c99f77efd86749ab00000001"
 		},
 		{
 			"Name": "/Paper2D/DefaultPaperTerrainMaterial",
@@ -2958,14 +3060,6 @@
 			]
 		},
 		{
-			"Name": "/Game/__UI/MainMenu",
-			"PackageChunkId": "76abc48b516bfc9f00000001"
-		},
-		{
-			"Name": "/Game/__UI/IngamePause",
-			"PackageChunkId": "b2de3d09f54ac6e500000001"
-		},
-		{
 			"Name": "/Game/LevelPrototyping/Meshes/SM_ChamferCube",
 			"PackageChunkId": "9fe46510b72904d400000001",
 			"BulkDataChunkIds": [
@@ -2977,8 +3071,8 @@
 			"PackageChunkId": "61c71c1f791566ff00000001"
 		},
 		{
-			"Name": "/Game/__Blueprints/SlidingWall",
-			"PackageChunkId": "39921c16a3c2029700000001"
+			"Name": "/Game/PPM_TS_InkAndPaper_BlackLine",
+			"PackageChunkId": "000000000000000000000000"
 		},
 		{
 			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided",
@@ -2993,48 +3087,20 @@
 			"PackageChunkId": "2925796cddcc148c00000001"
 		},
 		{
-			"Name": "/Game/__Levels/MainMenu",
-			"PackageChunkId": "e9ed92d144b7aa1c00000001"
-		},
-		{
-			"Name": "/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter",
-			"PackageChunkId": "48a96cb882cdf14f00000001"
-		},
-		{
 			"Name": "/Game/LevelPrototyping/Materials/M_PrototypeGrid",
 			"PackageChunkId": "dee22158a4e72f8300000001"
-		},
-		{
-			"Name": "/Game/__Blueprints/FloorSwitch",
-			"PackageChunkId": "3e3f62128e4a80ba00000001"
-		},
-		{
-			"Name": "/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode",
-			"PackageChunkId": "5d92e106367aace700000001"
-		},
-		{
-			"Name": "/Game/__Blueprints/StopTeleport",
-			"PackageChunkId": "71daf911e291674900000001"
-		},
-		{
-			"Name": "/Game/__Blueprints/LoadLevelActor",
-			"PackageChunkId": "07c39291d7471f6200000001"
 		},
 		{
 			"Name": "/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark",
 			"PackageChunkId": "fe76912143917d4d00000001"
 		},
 		{
+			"Name": "/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02",
+			"PackageChunkId": "bf5e6efbb78e710300000001"
+		},
+		{
 			"Name": "/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray",
 			"PackageChunkId": "db67837b5a6c7a6800000001"
-		},
-		{
-			"Name": "/Game/__Levels/Level2",
-			"PackageChunkId": "2d8a17c600e6ad6a00000001"
-		},
-		{
-			"Name": "/Game/__Levels/Level1",
-			"PackageChunkId": "e56241d3f534dc9b00000001"
 		},
 		{
 			"Name": "/Game/LevelPrototyping/Meshes/SM_Ramp",
@@ -3065,10 +3131,6 @@
 			]
 		},
 		{
-			"Name": "/Game/Level1",
-			"PackageChunkId": "000000000000000000000000"
-		},
-		{
 			"Name": "/Engine/EngineSounds/Submixes/MasterEQSubmixDefault",
 			"PackageChunkId": "cadc4d0ec817b83400000001"
 		},
@@ -3081,36 +3143,116 @@
 			"PackageChunkId": "b059d54260cfd24100000001"
 		},
 		{
+			"Name": "/Engine/EngineSounds/SFX",
+			"PackageChunkId": "bef0db628e3856fc00000001"
+		},
+		{
+			"Name": "/Game/__Sound/MixClasses/SoundVolumeClass",
+			"PackageChunkId": "754058f5dddec90f00000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Normal_Attack",
+			"PackageChunkId": "457ebb211be1a61900000001"
+		},
+		{
+			"Name": "/Game/__UI/IngamePause",
+			"PackageChunkId": "b2de3d09f54ac6e500000001"
+		},
+		{
+			"Name": "/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter",
+			"PackageChunkId": "48a96cb882cdf14f00000001"
+		},
+		{
+			"Name": "/Game/__Blueprints/SlidingWall",
+			"PackageChunkId": "39921c16a3c2029700000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Duck_Normal_Attack_MixMod",
+			"PackageChunkId": "89d4c5eca1455c0300000001"
+		},
+		{
+			"Name": "/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode",
+			"PackageChunkId": "5d92e106367aace700000001"
+		},
+		{
+			"Name": "/Game/__UI/MainMenu",
+			"PackageChunkId": "76abc48b516bfc9f00000001"
+		},
+		{
+			"Name": "/Game/__Blueprints/StopTeleport",
+			"PackageChunkId": "71daf911e291674900000001"
+		},
+		{
+			"Name": "/Game/__Sound/Scaling_Down",
+			"PackageChunkId": "bd9862de9568f11e00000001",
+			"BulkDataChunkIds": [
+				"bd9862de9568f11e00000002"
+			]
+		},
+		{
+			"Name": "/Game/__Sound/Metal-door-closing-soft-impact-563",
+			"PackageChunkId": "361ee4fd6b91f76100000001",
+			"BulkDataChunkIds": [
+				"361ee4fd6b91f76100000002"
+			]
+		},
+		{
+			"Name": "/Game/__Sound/Teleport_Committed",
+			"PackageChunkId": "cb1aa0783fada8ac00000001",
+			"BulkDataChunkIds": [
+				"cb1aa0783fada8ac00000002"
+			]
+		},
+		{
+			"Name": "/Game/__Sound/Scaling_Up",
+			"PackageChunkId": "08e0fc00fabbc64800000001",
+			"BulkDataChunkIds": [
+				"08e0fc00fabbc64800000002"
+			]
+		},
+		{
+			"Name": "/Game/__Blueprints/LoadLevelActor",
+			"PackageChunkId": "07c39291d7471f6200000001"
+		},
+		{
+			"Name": "/Game/__Blueprints/FloorSwitch",
+			"PackageChunkId": "3e3f62128e4a80ba00000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Special_Attack_PSM",
+			"PackageChunkId": "a27c88fe54b6f9aa00000001"
+		},
+		{
+			"Name": "/Game/__Levels/MainMenu",
+			"PackageChunkId": "e9ed92d144b7aa1c00000001"
+		},
+		{
+			"Name": "/Game/__Levels/Level3",
+			"PackageChunkId": "84935e3a68c445ee00000001"
+		},
+		{
+			"Name": "/Game/__Levels/Level2",
+			"PackageChunkId": "2d8a17c600e6ad6a00000001"
+		},
+		{
+			"Name": "/Game/__Levels/Level1",
+			"PackageChunkId": "e56241d3f534dc9b00000001"
+		},
+		{
+			"Name": "/Game/Level1",
+			"PackageChunkId": "000000000000000000000000"
+		},
+		{
 			"Name": "/Engine/EditorResources/EmptyActor",
 			"PackageChunkId": "cb90c94586b3228900000001"
 		},
 		{
-			"Name": "/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial",
-			"PackageChunkId": "f267c7830989284200000001"
+			"Name": "/Engine/EngineMaterials/DefaultTextMaterialOpaque",
+			"PackageChunkId": "e3ad05e4a2d7a17c00000001"
 		},
 		{
-			"Name": "/Game/__Materials/M_1mCube",
-			"PackageChunkId": "172e6db93901814600000001"
-		},
-		{
-			"Name": "/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02",
-			"PackageChunkId": "bf5e6efbb78e710300000001"
-		},
-		{
-			"Name": "/Game/PPM_TS_InkOnly",
-			"PackageChunkId": "6e16f50f9a564f0400000001"
-		},
-		{
-			"Name": "/Engine/VREditor/TransformGizmo/TransformGizmoMaterial",
-			"PackageChunkId": "51f4a9204ba994c500000001"
-		},
-		{
-			"Name": "/Game/__Materials/M_Floorswitch",
-			"PackageChunkId": "c65dffb6982224ca00000001"
-		},
-		{
-			"Name": "/Engine/BasicShapes/BasicShapeMaterial",
-			"PackageChunkId": "5516ce2c36f3d9ae00000001"
+			"Name": "/Game/__Font/TCMFont",
+			"PackageChunkId": "57877d017719586b00000001"
 		}
 	],
 	"OptionalPackages": []

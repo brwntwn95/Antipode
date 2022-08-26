@@ -70,6 +70,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "640B9C98AB64924C1B5E97B21B76122F7CD51CCA",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "EC0B9E24AAAB5DF9FA2D660C0AA56DC12CB5C37E",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
@@ -79,6 +85,12 @@
 			"ShaderMapHash": "4BA8896BE742775FC7859DAF5013C6E9845265CF",
 			"Assets": [
 				"/Game/LevelPrototyping/Materials/M_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "0862FDD7191CF943A698F206F61911DC38AA1864",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
@@ -125,6 +137,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CF7046448C9824C64AA8ED197F9E939375CD27BB",
+			"Assets": [
+				"/Game/MarketPlace/PPM_TS_InkOnly"
+			]
+		},
+		{
 			"ShaderMapHash": "F9263927B9A447444CEB25F0683B99FA6EDE8534",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -140,6 +158,12 @@
 			"ShaderMapHash": "CEB6981B8784CDFA2490593B8D2E0D49BD6FF41E",
 			"Assets": [
 				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D89B0A390677399085AACFBFB4F5ADD91649A111",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
 			]
 		},
 		{
@@ -185,16 +209,16 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8ACAFDF4D8347920962FFA6E6E976F915609C626",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
-			]
-		},
-		{
 			"ShaderMapHash": "B43D983CD3BDA59466984205703D5D9E6F5FE1F6",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "7FE4E653BC9E2BC43D2C1BB8AA79C26A24A3FDCE",
+			"Assets": [
+				"/Game/__Materials/M_1mCube"
 			]
 		},
 		{
@@ -283,33 +307,10 @@
 			]
 		},
 		{
-			"ShaderMapHash": "640B9C98AB64924C1B5E97B21B76122F7CD51CCA",
+			"ShaderMapHash": "8ACAFDF4D8347920962FFA6E6E976F915609C626",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "7FE4E653BC9E2BC43D2C1BB8AA79C26A24A3FDCE",
-			"Assets": [
-				"/Game/__Materials/M_1mCube"
-			]
-		},
-		{
-			"ShaderMapHash": "CF7046448C9824C64AA8ED197F9E939375CD27BB",
-			"Assets": [
-				"/Game/PPM_TS_InkOnly"
-			]
-		},
-		{
-			"ShaderMapHash": "D89B0A390677399085AACFBFB4F5ADD91649A111",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "0862FDD7191CF943A698F206F61911DC38AA1864",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque",
+				"/Game/__Font/TCMFont"
 			]
 		}
 	]
