@@ -60,7 +60,7 @@
 			"ShaderMapHash": "64F711963ED34B6AF1EE61A4B93FC8E3225B225E",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
-				"/Game/__Materials/M_Floorswitch"
+				"/Game/__Materials/FloorSwitch/M_Floorswitch"
 			]
 		},
 		{
@@ -79,6 +79,24 @@
 			"ShaderMapHash": "EC0B9E24AAAB5DF9FA2D660C0AA56DC12CB5C37E",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5608C8E30396BC0A3E64EE78719D547FAB9E6322",
+			"Assets": [
+				"/Game/__Materials/Sign/SignSheet"
+			]
+		},
+		{
+			"ShaderMapHash": "F9ECE7D53202920B0B5A1E0DA662B2A5628066DB",
+			"Assets": [
+				"/Game/__Materials/Sign/SignLight"
+			]
+		},
+		{
+			"ShaderMapHash": "2F80F43770839B6B071828ACF4D137500DA2DC83",
+			"Assets": [
+				"/Game/__Materials/Sign/Sign"
 			]
 		},
 		{
@@ -131,15 +149,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "58A68BB5B77A48E89954C130CB804AAF701FD854",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
-			]
-		},
-		{
 			"ShaderMapHash": "CF7046448C9824C64AA8ED197F9E939375CD27BB",
 			"Assets": [
 				"/Game/MarketPlace/PPM_TS_InkOnly"
+			]
+		},
+		{
+			"ShaderMapHash": "58A68BB5B77A48E89954C130CB804AAF701FD854",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
 			]
 		},
 		{
@@ -209,6 +227,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8ACAFDF4D8347920962FFA6E6E976F915609C626",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque",
+				"/Game/__Font/TCMFont"
+			]
+		},
+		{
 			"ShaderMapHash": "B43D983CD3BDA59466984205703D5D9E6F5FE1F6",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough",
@@ -218,7 +243,7 @@
 		{
 			"ShaderMapHash": "7FE4E653BC9E2BC43D2C1BB8AA79C26A24A3FDCE",
 			"Assets": [
-				"/Game/__Materials/M_1mCube"
+				"/Game/__Materials/Cube/M_1mCube"
 			]
 		},
 		{
@@ -304,13 +329,6 @@
 			"ShaderMapHash": "419EE9E96F6EFD06A21D0F8BA7433C8F5C9FDF70",
 			"Assets": [
 				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
-			]
-		},
-		{
-			"ShaderMapHash": "8ACAFDF4D8347920962FFA6E6E976F915609C626",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultTextMaterialOpaque",
-				"/Game/__Font/TCMFont"
 			]
 		}
 	]
