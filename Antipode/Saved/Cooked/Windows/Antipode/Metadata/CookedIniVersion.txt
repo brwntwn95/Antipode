@@ -22,6 +22,7 @@ Windows.Engine:/Script/EngineSettings.GameMapsSettings:ServerDefaultMap:0=/Game/
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultGameMode:0=/Game/FirstPerson/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode_C
 Windows.Engine:/Script/EngineSettings.GameMapsSettings:GlobalDefaultServerGameMode:0=None
 Windows.Engine:Core.System:CanUseUnversionedPropertySerialization:0=True
+Windows.Engine:SystemSettings:fx.NiagaraAllowRuntimeScalabilityChanges:0=1
 Input:/Script/Engine.InputSettings:DefaultTouchInterface:0=/Engine/MobileResources/HUD/DefaultVirtualJoysticks.DefaultVirtualJoysticks
 Input:/Script/Engine.InputSettings:bEnableMouseSmoothing:0=True
 Input:/Script/Engine.InputSettings:bEnableFOVScaling:0=True
@@ -47,6 +48,11 @@ Input:/Script/EngineSettings.ConsoleSettings:HistoryColor:0=(R=180,G=180,B=180,A
 Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCommandColor:0=(B=185,G=109,R=144,A=255)
 Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteCVarColor:0=(B=86,G=158,R=86,A=255)
 Input:/Script/EngineSettings.ConsoleSettings:AutoCompleteFadedColor:0=(R=100,G=100,B=100,A=255)
+Windows.Scalability:EffectsQuality@0:fx.Niagara.QualityLevel:0=0
+Windows.Scalability:EffectsQuality@1:fx.Niagara.QualityLevel:0=1
+Windows.Scalability:EffectsQuality@2:fx.Niagara.QualityLevel:0=2
+Windows.Scalability:EffectsQuality@3:fx.Niagara.QualityLevel:0=3
+Windows.Scalability:EffectsQuality@Cine:fx.Niagara.QualityLevel:0=4
 Editor:/Script/UnrealEd.UnrealEdOptions:bExpandClassPickerClassList:0=False
 Editor:/Script/ModelingToolsEditorMode.ModelingToolsEditorModeSettings:bEnableDynamicMeshActors:0=False
 Editor:/Script/ModelingToolsEditorMode.ModelingToolsEditorModeSettings:DefaultMeshObjectType:0=StaticMeshAsset
@@ -438,6 +444,7 @@ Engine:DevOptions.Shaders:bLogJobCompletionTimes:0=False
 Engine:DevOptions.Shaders:ProcessGameThreadTargetTime:0=.01
 Engine:DevOptions.Shaders:WorkerTimeToLive:0=20
 Engine:DevOptions.Shaders:BuildWorkerTimeToLive:0=1200
+Engine:DevOptions.Shaders:WorkerProcessPriority:0=-1
 Engine:DevOptions.Shaders:bForceUseSCWMemoryPressureLimits:0=False
 Engine:LogFiles:PurgeLogsDays:0=5
 Engine:LogFiles:MaxLogFilesOnDisk:0=10
@@ -644,7 +651,7 @@ Game:/Script/UnrealEd.ProjectPackagingSettings:PerPlatformBuildTarget:0=()
 Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
 Game:/Script/UnrealEd.ProjectPackagingSettings:LaunchOnTarget:0=
-Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/User/Desktop/Uni/Assessments/Design Prototyping Fundamentals/Build/Antipode v0.2.2")
+Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/User/Desktop/Uni/Assessments/Design Prototyping Fundamentals/Build/Antipode v0.2.3")
 Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
@@ -729,7 +736,7 @@ Game:/Script/EngineSettings.GeneralProjectSettings:Description:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:LicensingTerms:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:PrivacyPolicy:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:ProjectName:0=Antipode
-Game:/Script/EngineSettings.GeneralProjectSettings:ProjectVersion:0=0.1
+Game:/Script/EngineSettings.GeneralProjectSettings:ProjectVersion:0=0.2.3
 Game:/Script/EngineSettings.GeneralProjectSettings:Homepage:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:ProjectID:0=2BC7664A456C1F5D858AA0A763D89457
@@ -1234,10 +1241,10 @@ OverlappingVerticeDetectionVer:612FBE52DA53400B910D4F919FB1857C=1
 VisualLogger:A4237A36CAEA41C98FA218F858681BF3=5
 VirtualTextureBuiltDataVersion:804E3F7570884B49A4D68C063C7EB6DC=5
 WorldSettingVer:1ED048F42F2E4C6889D053A4F18F102D=1
+VariantManagerObjectVer:24BB7AF356464F831F2F2DC249AD96FF=5
 ChaosClothConfigVer:76A52329092345B598AED841CF2F6AD8=5
 ChaosClothSharedConfigVer:5FBC690755C840AE8E67F1845EFFF13F=1
 NiagaraVer:FCF57AFA50764283B9A9E658FFA02D32=70
-VariantManagerObjectVer:24BB7AF356464F831F2F2DC249AD96FF=5
 ClothConfigNvVer:9950B70EB41A4E17BBCCFA0D57817FD6=1
 Paper2DVer:11310AED2E554D61AF679AA3C5A1082C=17
 Dev-ControlRig:A7820CFB20A743598C542C149623CF50=13

@@ -112,15 +112,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FB78E94DC951ABCB8484BFC31BD93E7131FB2D13",
+			"ShaderMapHash": "C52E5226D3CFA1CAC3D87FAC8D50F38D363FAB58",
 			"Assets": [
-				"/Engine/MapTemplates/Materials/BasicAsset01"
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "12608BA097FEC0199341FC6D3C44341338AE7C12",
+			"ShaderMapHash": "FB78E94DC951ABCB8484BFC31BD93E7131FB2D13",
 			"Assets": [
-				"/Engine/EditorLandscapeResources/CircleBrushMaterial"
+				"/Engine/MapTemplates/Materials/BasicAsset01"
 			]
 		},
 		{
@@ -149,15 +149,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CF7046448C9824C64AA8ED197F9E939375CD27BB",
-			"Assets": [
-				"/Game/MarketPlace/PPM_TS_InkOnly"
-			]
-		},
-		{
 			"ShaderMapHash": "58A68BB5B77A48E89954C130CB804AAF701FD854",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "CF7046448C9824C64AA8ED197F9E939375CD27BB",
+			"Assets": [
+				"/Game/MarketPlace/PPM_TS_InkOnly"
 			]
 		},
 		{
@@ -265,6 +265,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "E3D9DB5FBEF949CA09FDEE3C454C11E3392020DB",
+			"Assets": [
+				"/Game/__Materials/Gauntlet/Gem"
+			]
+		},
+		{
 			"ShaderMapHash": "CE5D72DE311D46F68FCE2027B9A3DAF2DB389E47",
 			"Assets": [
 				"/Paper2D/OpaqueUnlitSpriteMaterial"
@@ -329,6 +335,18 @@
 			"ShaderMapHash": "419EE9E96F6EFD06A21D0F8BA7433C8F5C9FDF70",
 			"Assets": [
 				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "2BE4EF7DD49100E08813AA88FA5A567FF42F5495",
+			"Assets": [
+				"/DatasmithContent/Materials/StdTranslucent/M_StdTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "D3CF26C940DA1D459BABFA88AF091019C72FDE4E",
+			"Assets": [
+				"/Game/__Materials/Gauntlet/HumanBody_blinn1"
 			]
 		}
 	]
