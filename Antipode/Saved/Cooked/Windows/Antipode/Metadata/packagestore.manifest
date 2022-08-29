@@ -409,6 +409,14 @@
 			"ChunkId": "38631b0a6496bb8200000002"
 		},
 		{
+			"Path": "Antipode/Content/__Levels/_GENERATED/User/CubeGridToolOutput_87F5923E.uasset",
+			"ChunkId": "d372baef4356a13600000001"
+		},
+		{
+			"Path": "Antipode/Content/__Levels/_GENERATED/User/CubeGridToolOutput_87F5923E.ubulk",
+			"ChunkId": "d372baef4356a13600000002"
+		},
+		{
 			"Path": "Antipode/Content/__Levels/_GENERATED/User/CubeGridToolOutput_77E59449.uasset",
 			"ChunkId": "820c39179515f88500000001"
 		},
@@ -447,6 +455,38 @@
 		{
 			"Path": "Antipode/Content/__Levels/_GENERATED/User/CubeGridToolOutput_53AF22CF.ubulk",
 			"ChunkId": "5ea2d3298259807900000002"
+		},
+		{
+			"Path": "Antipode/Content/__Levels/_GENERATED/User/CubeGridToolOutput_195782A5.uasset",
+			"ChunkId": "13bbbc0966dce1c500000001"
+		},
+		{
+			"Path": "Antipode/Content/__Levels/_GENERATED/User/CubeGridToolOutput_195782A5.ubulk",
+			"ChunkId": "13bbbc0966dce1c500000002"
+		},
+		{
+			"Path": "Antipode/Content/__Font/TW_Font_Offline.uasset",
+			"ChunkId": "168c7f5ef4973cde00000001"
+		},
+		{
+			"Path": "Antipode/Content/__Font/TCM_____.uasset",
+			"ChunkId": "9b79120bf8eb9b7d00000001"
+		},
+		{
+			"Path": "Antipode/Content/__Blueprints/SaveGameBP.uasset",
+			"ChunkId": "3f959597f95fa63500000001"
+		},
+		{
+			"Path": "Antipode/Content/LevelPrototyping/Materials/M_Solid.uasset",
+			"ChunkId": "05fbe02734550c0d00000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
+			"ChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
+			"ChunkId": "abde94c25a5272fc00000001"
 		},
 		{
 			"Path": "Antipode/Content/__Materials/Cube/1mCube_lambert1_Normal.uasset",
@@ -669,34 +709,6 @@
 			"ChunkId": "d32618e64d5e4b2f00000002"
 		},
 		{
-			"Path": "Antipode/Content/__Levels/_GENERATED/User/CubeGridToolOutput_195782A5.uasset",
-			"ChunkId": "13bbbc0966dce1c500000001"
-		},
-		{
-			"Path": "Antipode/Content/__Levels/_GENERATED/User/CubeGridToolOutput_195782A5.ubulk",
-			"ChunkId": "13bbbc0966dce1c500000002"
-		},
-		{
-			"Path": "Antipode/Content/__Font/TCM_____.uasset",
-			"ChunkId": "9b79120bf8eb9b7d00000001"
-		},
-		{
-			"Path": "Antipode/Content/__Blueprints/SaveGameBP.uasset",
-			"ChunkId": "3f959597f95fa63500000001"
-		},
-		{
-			"Path": "Antipode/Content/LevelPrototyping/Materials/M_Solid.uasset",
-			"ChunkId": "05fbe02734550c0d00000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSounds/Submixes/MasterEQEffectPreset.uasset",
-			"ChunkId": "7819480612024b3600000001"
-		},
-		{
-			"Path": "Engine/Content/EngineSounds/Submixes/MasterReverbEffectPreset.uasset",
-			"ChunkId": "abde94c25a5272fc00000001"
-		},
-		{
 			"Path": "Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
 			"ChunkId": "72ff6427f1042ed200000001"
 		},
@@ -761,26 +773,6 @@
 			"ChunkId": "305a1ec18dd5a4be00000001"
 		},
 		{
-			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
-			"ChunkId": "9a5a67fa3c2b2de900000001"
-		},
-		{
-			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
-			"ChunkId": "2a8ace463a029fae00000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
-			"ChunkId": "2d5d52b0905803e600000001"
-		},
-		{
-			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
-			"ChunkId": "2d5d52b0905803e600000002"
-		},
-		{
-			"Path": "Antipode/Content/__Font/TW_Font_Offline.uasset",
-			"ChunkId": "168c7f5ef4973cde00000001"
-		},
-		{
 			"Path": "Antipode/Content/MarketPlace/ContrastD.uasset",
 			"ChunkId": "5a1624a016a0ef1c00000001"
 		},
@@ -807,6 +799,22 @@
 		{
 			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset",
 			"ChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Path": "Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset",
+			"ChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset",
+			"ChunkId": "2d5d52b0905803e600000001"
+		},
+		{
+			"Path": "Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk",
+			"ChunkId": "2d5d52b0905803e600000002"
+		},
+		{
+			"Path": "Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset",
+			"ChunkId": "9a5a67fa3c2b2de900000001"
 		},
 		{
 			"Path": "Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset",
@@ -1525,6 +1533,10 @@
 			"ChunkId": "401f847a49194b0700000002"
 		},
 		{
+			"Path": "Antipode/Content/__UI/PlayerAim.uasset",
+			"ChunkId": "e562888406ce418c00000001"
+		},
+		{
 			"Path": "Antipode/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
 			"ChunkId": "9fe46510b72904d400000001"
 		},
@@ -1547,6 +1559,10 @@
 		{
 			"Path": "Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
 			"ChunkId": "2925796cddcc148c00000001"
+		},
+		{
+			"Path": "Antipode/Content/__Blueprints/1mCube.uasset",
+			"ChunkId": "79d349f6117c41ef00000001"
 		},
 		{
 			"Path": "Antipode/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
@@ -1617,6 +1633,14 @@
 			"ChunkId": "754058f5dddec90f00000001"
 		},
 		{
+			"Path": "Antipode/Content/__Sound/Teleport_Committed.uasset",
+			"ChunkId": "cb1aa0783fada8ac00000001"
+		},
+		{
+			"Path": "Antipode/Content/__Sound/Teleport_Committed.ubulk",
+			"ChunkId": "cb1aa0783fada8ac00000002"
+		},
+		{
 			"Path": "Engine/Content/EngineSounds/Normal_Attack.uasset",
 			"ChunkId": "457ebb211be1a61900000001"
 		},
@@ -1681,16 +1705,12 @@
 			"ChunkId": "e56241d3f534dc9b00000001"
 		},
 		{
-			"Path": "Engine/Content/EditorResources/LightIcons/S_LightError.uasset",
-			"ChunkId": "6ed73496191bba2800000001"
+			"Path": "Antipode/Content/__Sound/Metal-door-closing-soft-impact-563.uasset",
+			"ChunkId": "361ee4fd6b91f76100000001"
 		},
 		{
-			"Path": "Antipode/Content/__Sound/Teleport_Committed.uasset",
-			"ChunkId": "cb1aa0783fada8ac00000001"
-		},
-		{
-			"Path": "Antipode/Content/__Sound/Teleport_Committed.ubulk",
-			"ChunkId": "cb1aa0783fada8ac00000002"
+			"Path": "Antipode/Content/__Sound/Metal-door-closing-soft-impact-563.ubulk",
+			"ChunkId": "361ee4fd6b91f76100000002"
 		},
 		{
 			"Path": "Antipode/Content/__Sound/Scaling_Up.uasset",
@@ -1709,12 +1729,8 @@
 			"ChunkId": "bd9862de9568f11e00000002"
 		},
 		{
-			"Path": "Antipode/Content/__Sound/Metal-door-closing-soft-impact-563.uasset",
-			"ChunkId": "361ee4fd6b91f76100000001"
-		},
-		{
-			"Path": "Antipode/Content/__Sound/Metal-door-closing-soft-impact-563.ubulk",
-			"ChunkId": "361ee4fd6b91f76100000002"
+			"Path": "Engine/Content/EditorResources/LightIcons/S_LightError.uasset",
+			"ChunkId": "6ed73496191bba2800000001"
 		},
 		{
 			"Path": "Engine/Content/EditorResources/EmptyActor.uasset",
@@ -2141,6 +2157,13 @@
 			]
 		},
 		{
+			"Name": "/Game/__Levels/_GENERATED/User/CubeGridToolOutput_87F5923E",
+			"PackageChunkId": "d372baef4356a13600000001",
+			"BulkDataChunkIds": [
+				"d372baef4356a13600000002"
+			]
+		},
+		{
 			"Name": "/Game/__Levels/_GENERATED/User/CubeGridToolOutput_77E59449",
 			"PackageChunkId": "820c39179515f88500000001",
 			"BulkDataChunkIds": [
@@ -2174,6 +2197,37 @@
 			"BulkDataChunkIds": [
 				"5ea2d3298259807900000002"
 			]
+		},
+		{
+			"Name": "/Game/__Levels/_GENERATED/User/CubeGridToolOutput_195782A5",
+			"PackageChunkId": "13bbbc0966dce1c500000001",
+			"BulkDataChunkIds": [
+				"13bbbc0966dce1c500000002"
+			]
+		},
+		{
+			"Name": "/Game/__Font/TW_Font_Offline",
+			"PackageChunkId": "168c7f5ef4973cde00000001"
+		},
+		{
+			"Name": "/Game/__Font/TCM_____",
+			"PackageChunkId": "9b79120bf8eb9b7d00000001"
+		},
+		{
+			"Name": "/Game/__Blueprints/SaveGameBP",
+			"PackageChunkId": "3f959597f95fa63500000001"
+		},
+		{
+			"Name": "/Game/LevelPrototyping/Materials/M_Solid",
+			"PackageChunkId": "05fbe02734550c0d00000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
+			"PackageChunkId": "7819480612024b3600000001"
+		},
+		{
+			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
+			"PackageChunkId": "abde94c25a5272fc00000001"
 		},
 		{
 			"Name": "/Game/__Materials/Cube/1mCube_lambert1_Normal",
@@ -2383,33 +2437,6 @@
 			]
 		},
 		{
-			"Name": "/Game/__Levels/_GENERATED/User/CubeGridToolOutput_195782A5",
-			"PackageChunkId": "13bbbc0966dce1c500000001",
-			"BulkDataChunkIds": [
-				"13bbbc0966dce1c500000002"
-			]
-		},
-		{
-			"Name": "/Game/__Font/TCM_____",
-			"PackageChunkId": "9b79120bf8eb9b7d00000001"
-		},
-		{
-			"Name": "/Game/__Blueprints/SaveGameBP",
-			"PackageChunkId": "3f959597f95fa63500000001"
-		},
-		{
-			"Name": "/Game/LevelPrototyping/Materials/M_Solid",
-			"PackageChunkId": "05fbe02734550c0d00000001"
-		},
-		{
-			"Name": "/Engine/EngineSounds/Submixes/MasterEQEffectPreset",
-			"PackageChunkId": "7819480612024b3600000001"
-		},
-		{
-			"Name": "/Engine/EngineSounds/Submixes/MasterReverbEffectPreset",
-			"PackageChunkId": "abde94c25a5272fc00000001"
-		},
-		{
 			"Name": "/Engine/EditorBlueprintResources/StandardMacros",
 			"PackageChunkId": "72ff6427f1042ed200000001"
 		},
@@ -2474,25 +2501,6 @@
 			"PackageChunkId": "305a1ec18dd5a4be00000001"
 		},
 		{
-			"Name": "/ControlRig/M_Manip",
-			"PackageChunkId": "9a5a67fa3c2b2de900000001"
-		},
-		{
-			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
-			"PackageChunkId": "2a8ace463a029fae00000001"
-		},
-		{
-			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
-			"PackageChunkId": "2d5d52b0905803e600000001",
-			"BulkDataChunkIds": [
-				"2d5d52b0905803e600000002"
-			]
-		},
-		{
-			"Name": "/Game/__Font/TW_Font_Offline",
-			"PackageChunkId": "168c7f5ef4973cde00000001"
-		},
-		{
 			"Name": "/Game/MarketPlace/ContrastD",
 			"PackageChunkId": "5a1624a016a0ef1c00000001"
 		},
@@ -2518,6 +2526,21 @@
 		{
 			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Background",
 			"PackageChunkId": "c472a8877b0ae2f900000001"
+		},
+		{
+			"Name": "/Engine/MobileResources/HUD/VirtualJoystick_Thumb",
+			"PackageChunkId": "2a8ace463a029fae00000001"
+		},
+		{
+			"Name": "/Engine/EditorMaterials/PreviewShadowIndicator",
+			"PackageChunkId": "2d5d52b0905803e600000001",
+			"BulkDataChunkIds": [
+				"2d5d52b0905803e600000002"
+			]
+		},
+		{
+			"Name": "/ControlRig/M_Manip",
+			"PackageChunkId": "9a5a67fa3c2b2de900000001"
 		},
 		{
 			"Name": "/Paper2D/DummySprite",
@@ -3180,6 +3203,10 @@
 			]
 		},
 		{
+			"Name": "/Game/__UI/PlayerAim",
+			"PackageChunkId": "e562888406ce418c00000001"
+		},
+		{
 			"Name": "/Game/LevelPrototyping/Meshes/SM_ChamferCube",
 			"PackageChunkId": "9fe46510b72904d400000001",
 			"BulkDataChunkIds": [
@@ -3205,6 +3232,10 @@
 		{
 			"Name": "/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
 			"PackageChunkId": "2925796cddcc148c00000001"
+		},
+		{
+			"Name": "/Game/__Blueprints/1mCube",
+			"PackageChunkId": "79d349f6117c41ef00000001"
 		},
 		{
 			"Name": "/Game/LevelPrototyping/Materials/M_PrototypeGrid",
@@ -3269,6 +3300,13 @@
 		{
 			"Name": "/Game/__Sound/MixClasses/SoundVolumeClass",
 			"PackageChunkId": "754058f5dddec90f00000001"
+		},
+		{
+			"Name": "/Game/__Sound/Teleport_Committed",
+			"PackageChunkId": "cb1aa0783fada8ac00000001",
+			"BulkDataChunkIds": [
+				"cb1aa0783fada8ac00000002"
+			]
 		},
 		{
 			"Name": "/Engine/EngineSounds/Normal_Attack",
@@ -3339,14 +3377,10 @@
 			"PackageChunkId": "000000000000000000000000"
 		},
 		{
-			"Name": "/Engine/EditorResources/LightIcons/S_LightError",
-			"PackageChunkId": "6ed73496191bba2800000001"
-		},
-		{
-			"Name": "/Game/__Sound/Teleport_Committed",
-			"PackageChunkId": "cb1aa0783fada8ac00000001",
+			"Name": "/Game/__Sound/Metal-door-closing-soft-impact-563",
+			"PackageChunkId": "361ee4fd6b91f76100000001",
 			"BulkDataChunkIds": [
-				"cb1aa0783fada8ac00000002"
+				"361ee4fd6b91f76100000002"
 			]
 		},
 		{
@@ -3364,11 +3398,8 @@
 			]
 		},
 		{
-			"Name": "/Game/__Sound/Metal-door-closing-soft-impact-563",
-			"PackageChunkId": "361ee4fd6b91f76100000001",
-			"BulkDataChunkIds": [
-				"361ee4fd6b91f76100000002"
-			]
+			"Name": "/Engine/EditorResources/LightIcons/S_LightError",
+			"PackageChunkId": "6ed73496191bba2800000001"
 		},
 		{
 			"Name": "/Engine/EditorResources/EmptyActor",
