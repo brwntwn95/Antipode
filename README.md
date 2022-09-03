@@ -1,6 +1,6 @@
 # Technical Design Document for Antipode
 
-26/08/2022
+30/08/2022
 
 Features:
 
@@ -16,10 +16,8 @@ Pickup Objects  - Left Mouse Button
 
 
 TO DO:
-  - Fix Options menu functionality
+  - Fix Options menu functionality (or remove entirely)
   - Fix Volume Sliders
-  - Fix Picking up Objects
-      - Sometimes needs player to bump object with body first before it moves
   - More Levels
   - More Puzzle Types
   - More Interactive Objects
