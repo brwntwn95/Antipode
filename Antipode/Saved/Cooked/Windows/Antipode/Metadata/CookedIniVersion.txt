@@ -651,7 +651,7 @@ Game:/Script/UnrealEd.ProjectPackagingSettings:PerPlatformBuildTarget:0=()
 Game:/Script/UnrealEd.ProjectPackagingSettings:Build:0=IfProjectHasCode
 Game:/Script/UnrealEd.ProjectPackagingSettings:BuildTarget:0=
 Game:/Script/UnrealEd.ProjectPackagingSettings:LaunchOnTarget:0=
-Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/User/Desktop/Uni/Assessments/Design Prototyping Fundamentals/Build/Antipode v0.2.3")
+Game:/Script/UnrealEd.ProjectPackagingSettings:StagingDirectory:0=(Path="C/Users/User/Desktop/Uni/Assessments/Design Prototyping Fundamentals/Build/Antipode v0.2.4")
 Game:/Script/UnrealEd.ProjectPackagingSettings:ForDistribution:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:IncludeDebugFiles:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:BlueprintNativizationMethod:0=Disabled
@@ -736,11 +736,11 @@ Game:/Script/EngineSettings.GeneralProjectSettings:Description:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:LicensingTerms:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:PrivacyPolicy:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:ProjectName:0=Antipode
-Game:/Script/EngineSettings.GeneralProjectSettings:ProjectVersion:0=0.2.3
+Game:/Script/EngineSettings.GeneralProjectSettings:ProjectVersion:0=0.2.4
 Game:/Script/EngineSettings.GeneralProjectSettings:Homepage:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:ProjectID:0=2BC7664A456C1F5D858AA0A763D89457
-Game:/Script/EngineSettings.GeneralProjectSettings:ProjectDisplayedTitle:0=NSLOCTEXT("[/Script/EngineSettings]", "2C4BCB9746D69AC0BFA6079FB4660810", "Antipode 0.1")
+Game:/Script/EngineSettings.GeneralProjectSettings:ProjectDisplayedTitle:0=NSLOCTEXT("[/Script/EngineSettings]", "2C4BCB9746D69AC0BFA6079FB4660810", "Antipode 0.2.4")
 Game:/Script/EngineSettings.GeneralProjectSettings:ProjectDebugTitleInfo:0=
 Game:/Script/Engine.PlayerController:InputYawScale:0=2.5
 Game:/Script/Engine.PlayerController:InputPitchScale:0=-2.5

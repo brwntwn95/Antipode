@@ -84,19 +84,19 @@
 		{
 			"ShaderMapHash": "5608C8E30396BC0A3E64EE78719D547FAB9E6322",
 			"Assets": [
-				"/Game/__Materials/Sign/SignSheet"
+				"/Game/__Materials/Sign/M_SignSheet"
 			]
 		},
 		{
 			"ShaderMapHash": "F9ECE7D53202920B0B5A1E0DA662B2A5628066DB",
 			"Assets": [
-				"/Game/__Materials/Sign/SignLight"
+				"/Game/__Materials/Sign/M_SignLight"
 			]
 		},
 		{
 			"ShaderMapHash": "2F80F43770839B6B071828ACF4D137500DA2DC83",
 			"Assets": [
-				"/Game/__Materials/Sign/Sign"
+				"/Game/__Materials/Sign/M_Sign"
 			]
 		},
 		{
@@ -241,12 +241,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "7FE4E653BC9E2BC43D2C1BB8AA79C26A24A3FDCE",
-			"Assets": [
-				"/Game/__Materials/Cube/M_1mCube"
-			]
-		},
-		{
 			"ShaderMapHash": "B150AA951472CA41983BB3A161BDDC7C261898CA",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
@@ -262,12 +256,6 @@
 			"ShaderMapHash": "CA5E52CACC8C177679D06C910BA38FFD19582423",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "E3D9DB5FBEF949CA09FDEE3C454C11E3392020DB",
-			"Assets": [
-				"/Game/__Materials/Gauntlet/Gem"
 			]
 		},
 		{
@@ -344,9 +332,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D7A1328AF554B2C0BE7E83F2456D59C7B09B42BE",
+			"Assets": [
+				"/Game/__Materials/Gauntlet/M_Gem"
+			]
+		},
+		{
 			"ShaderMapHash": "D3CF26C940DA1D459BABFA88AF091019C72FDE4E",
 			"Assets": [
-				"/Game/__Materials/Gauntlet/HumanBody_blinn1"
+				"/Game/__Materials/Cube/M_Cube"
+			]
+		},
+		{
+			"ShaderMapHash": "2A8C79304048EB2C5DD2CD2D50FB3E4889E7B377",
+			"Assets": [
+				"/Game/__Materials/Gauntlet/M_Gauntlet"
 			]
 		}
 	]
