@@ -100,6 +100,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D7A1328AF554B2C0BE7E83F2456D59C7B09B42BE",
+			"Assets": [
+				"/Game/__Materials/Gauntlet/M_Gem"
+			]
+		},
+		{
 			"ShaderMapHash": "4BA8896BE742775FC7859DAF5013C6E9845265CF",
 			"Assets": [
 				"/Game/LevelPrototyping/Materials/M_Solid"
@@ -149,15 +155,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "58A68BB5B77A48E89954C130CB804AAF701FD854",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
-			]
-		},
-		{
 			"ShaderMapHash": "CF7046448C9824C64AA8ED197F9E939375CD27BB",
 			"Assets": [
 				"/Game/MarketPlace/PPM_TS_InkOnly"
+			]
+		},
+		{
+			"ShaderMapHash": "58A68BB5B77A48E89954C130CB804AAF701FD854",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
 			]
 		},
 		{
@@ -238,6 +244,18 @@
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "2A8C79304048EB2C5DD2CD2D50FB3E4889E7B377",
+			"Assets": [
+				"/Game/__Materials/Gauntlet/M_Gauntlet"
+			]
+		},
+		{
+			"ShaderMapHash": "D3CF26C940DA1D459BABFA88AF091019C72FDE4E",
+			"Assets": [
+				"/Game/__Materials/Cube/M_Cube"
 			]
 		},
 		{
@@ -329,24 +347,6 @@
 			"ShaderMapHash": "2BE4EF7DD49100E08813AA88FA5A567FF42F5495",
 			"Assets": [
 				"/DatasmithContent/Materials/StdTranslucent/M_StdTranslucent"
-			]
-		},
-		{
-			"ShaderMapHash": "D7A1328AF554B2C0BE7E83F2456D59C7B09B42BE",
-			"Assets": [
-				"/Game/__Materials/Gauntlet/M_Gem"
-			]
-		},
-		{
-			"ShaderMapHash": "D3CF26C940DA1D459BABFA88AF091019C72FDE4E",
-			"Assets": [
-				"/Game/__Materials/Cube/M_Cube"
-			]
-		},
-		{
-			"ShaderMapHash": "2A8C79304048EB2C5DD2CD2D50FB3E4889E7B377",
-			"Assets": [
-				"/Game/__Materials/Gauntlet/M_Gauntlet"
 			]
 		}
 	]
