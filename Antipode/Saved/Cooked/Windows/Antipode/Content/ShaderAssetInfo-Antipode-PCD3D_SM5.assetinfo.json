@@ -106,6 +106,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DC9C654B39F975617CD547A1CA319D6C5F97444E",
+			"Assets": [
+				"/Game/__Emitter/PortalColour"
+			]
+		},
+		{
 			"ShaderMapHash": "4BA8896BE742775FC7859DAF5013C6E9845265CF",
 			"Assets": [
 				"/Game/LevelPrototyping/Materials/M_Solid"
@@ -155,15 +161,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "CF7046448C9824C64AA8ED197F9E939375CD27BB",
-			"Assets": [
-				"/Game/MarketPlace/PPM_TS_InkOnly"
-			]
-		},
-		{
 			"ShaderMapHash": "58A68BB5B77A48E89954C130CB804AAF701FD854",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "CF7046448C9824C64AA8ED197F9E939375CD27BB",
+			"Assets": [
+				"/Game/MarketPlace/PPM_TS_InkOnly"
 			]
 		},
 		{
@@ -255,7 +261,8 @@
 		{
 			"ShaderMapHash": "D3CF26C940DA1D459BABFA88AF091019C72FDE4E",
 			"Assets": [
-				"/Game/__Materials/Cube/M_Cube"
+				"/Game/__Materials/Cube/M_Cube",
+				"/Game/__Materials/Portal/M_Portal"
 			]
 		},
 		{
